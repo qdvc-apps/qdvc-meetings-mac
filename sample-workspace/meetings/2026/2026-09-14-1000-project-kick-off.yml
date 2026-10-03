@@ -1,0 +1,24 @@
+title: Project kick-off
+date: 2026-09-14
+time: '10:00'
+end_time: '11:30'
+location: Room 4.12
+people:
+- Alice Smith
+- Bob Jones
+- Carol White
+- Dan Okafor
+description: Scope, roles and the first milestone.
+notes:
+- text: Scope agreed as in the proposal, minus the reporting module.
+- text: Carol leads delivery; Dan is the client contact.
+  kind: decision
+- text: Circulate the project charter.
+  kind: action
+  assignees:
+  - Alice Smith
+- text: Set up the shared drive and invite the client.
+  kind: action
+  assignees:
+  - Bob Jones
+  - Dan Okafor

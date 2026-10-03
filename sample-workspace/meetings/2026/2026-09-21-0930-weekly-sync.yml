@@ -1,0 +1,15 @@
+title: Weekly sync
+date: 2026-09-21
+time: '09:30'
+end_time: '10:00'
+location: https://teams.microsoft.com/l/meetup-join/19%3ameeting_sample01
+people:
+- Alice Smith
+- Bob Jones
+- Carol White
+notes:
+- text: Charter sent; two comments back so far.
+- text: Chase the remaining reviewers.
+  kind: action
+  assignees:
+  - Alice Smith

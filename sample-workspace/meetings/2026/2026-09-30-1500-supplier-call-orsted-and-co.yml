@@ -1,0 +1,19 @@
+title: 'Supplier call: Ørsted & Co'
+date: 2026-09-30
+time: '15:00'
+end_time: '15:45'
+location: https://us02web.zoom.us/j/81234567890?pwd=sample
+people:
+- Bob Jones
+- Erin Brown
+description: Pricing for the second phase.
+notes:
+- text: Quote is 8% over budget; they can phase delivery.
+- text: Accept phased delivery if the total stays within budget.
+  kind: decision
+- text: |-
+    Send revised scope by Friday.
+    Copy finance.
+  kind: action
+  assignees:
+  - Erin Brown

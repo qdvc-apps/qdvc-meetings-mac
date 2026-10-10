@@ -1,5 +1,7 @@
 # QDVC Meetings for macOS
 
+![A screenshot of QDVC Meetings](docs/screenshot.png)
+
 Keep a record of your meetings: when and where they are (a room, a Google
 Maps link, or a Microsoft Teams or Zoom link), who is in them, and the notes,
 decisions and action items that come out of them. A native SwiftUI app for
